@@ -11,20 +11,43 @@ Cloud-Architekturen zu sammeln</b>
 <h2>👨‍💻 Private conducted Azure Projects:</h2>
 
 - <b>Projects on Azure Administration</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Virtual Machines (VMs) Setup and Management](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Azure Networking and Virtual Networks (VNets)](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Azure Active Directory (AAD) and Identity Management](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Azure Storage Management](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Azure Security Implementation](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Automation with Azure Automation and PowerShell](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Azure Monitoring and Logging](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Azure Backup and Disaster Recovery (DR)](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+  - [Automate the Deployment of a Multi-Tier Web Application using ARM Templates](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Admin)
+    
 - <b>Projects on Azure Security</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Deploying Azure Web Application Firewall (WAF)](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [Setting Up Azure Key Vault and Managed Identity for Secrets Management](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [Azure Sentinel and Security Monitoring](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [Azure Sentinel Custom Playbooks for Automated Incident Response](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [ Azure Identity and Access Management (IAM) Best Practices](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [Azure Firewall with Threat Intelligence and Logging](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [Implementing Multi-Factor Authentication (MFA) in Azure Active Directory](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  - [Implementing Azure Virtual Desktop (AVD) Security](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Security)
+  
+    
 - <b>Projects on Azure Solution Architect</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Projects on MS 365 </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Designing and Deploying a Scalable and Highly Available Web Application Architecture](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Architecture)
+  - [Multi-Tier Secure Architecture with Azure Firewall and DDoS Protection](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Architecture)
+  - [Serverless Event-Driven Architecture Using Azure Functions and Event Grid](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Architecture)
+  - [Multi-Region Disaster Recovery Architecture](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Architecture)
+  - [Cost-Optimized Azure Architecture Design](https://github.com/Ramin-sec/Azure-Projects/blob/main/Azure%20Architecture)
+    
+
+- <b>Projects on Microsoft 365 </b>
+  - [Automation with Power Automate](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Developing Custom SharePoint Sites and Apps](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Building Custom Applications with PowerApps](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Security & Compliance Automation](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Microsoft 365 Admin Automation](https://github.com/joshmadakor1/EncrypterPOC)
+
+  
 
 
 <!--

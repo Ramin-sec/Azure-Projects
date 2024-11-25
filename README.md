@@ -47,7 +47,8 @@ Cloud-Architekturen zu sammeln</b>
   - [Security & Compliance Automation](https://github.com/joshmadakor1/EncrypterPOC)
   - [Microsoft 365 Admin Automation](https://github.com/joshmadakor1/EncrypterPOC)
 
-  
+- <b>Projects on Automation </b>
+   - [Azure deveops leveraging the self-hosted-agents on the AKS pod ](https://github.com/joshmadakor1/EncrypterPOC)
 
 
 <!--
